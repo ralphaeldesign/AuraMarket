@@ -1,0 +1,6 @@
+{
+  "name": "AuraMarket - E-Commerce Platform",
+  "description": "Modern, professional e-commerce store with flash sales, live search, categories, quick view, cart, wishlist, checkout, and user accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
